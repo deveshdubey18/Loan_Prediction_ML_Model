@@ -1,4 +1,4 @@
-readme = """<div align="center">
+<div align="center">
   <h1>Loan Prediction Machine Learning Model</h1>
 </div>
 
