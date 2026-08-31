@@ -63,10 +63,10 @@ The complete workflow of the project is:
         │         │         │
         └─────────┼─────────┘
                   ▼
-              SMOTE
+            Train/Test Split
                   │
                   ▼
-          Train/Test Split
+                SMOTE
                   │
                   ▼
        🌳 Random Forest Model
