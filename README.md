@@ -332,20 +332,6 @@ These experiments were used for exploring and comparing different machine learni
 
 ---
 
-## 📌 Future Improvements
-
-Some possible improvements for the project include:
-
-* 🔹 Hyperparameter tuning for Random Forest
-* 🔹 Feature importance analysis
-* 🔹 Cross-validation
-* 🔹 Model comparison with other classifiers
-* 🔹 Improved data validation
-* 🔹 Deployment using Streamlit or Flask
-* 🔹 Creating an API for real-time loan predictions
-
----
-
 ## 👨‍💻 Author
 
 **Devesh Dubey**
