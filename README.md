@@ -302,8 +302,6 @@ After successful execution, the trained model is saved as:
 models/model.pkl
 ```
 
-The application also prints the dataset shape and classification report in the terminal.
-
 ---
 
 ## 🔬 Research & Experiments
