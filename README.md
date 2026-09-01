@@ -180,7 +180,8 @@ Loan_Prediction_ML_Model/
 │       ├── __init__.py
 │       ├── data_ingestion.py
 │       ├── data_preprocessing.py
-│       └── model_building.py
+│       ├── model_building.py
+|       └── model_cluster.py   // k-means cluster
 │
 ├── main.py
 ├── pyproject.toml
